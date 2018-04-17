@@ -1,0 +1,8 @@
+[07-Dec-2017 23:32:50 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'shopout_shopout'@'localhost' to database 'shopout_oswa_inv' in /home/shopout/public_html/config.php on line 10
+[08-Dec-2017 07:15:11 Etc/GMT] PHP Notice:  Undefined index: item in /home/shopout/public_html/checkout-step.php on line 338
+[10-Dec-2017 15:52:52 Etc/GMT] PHP Notice:  Undefined index: item in /home/shopout/public_html/checkout-step.php on line 338
+[14-Dec-2017 18:14:47 Etc/GMT] PHP Notice:  Undefined index: item in /home/shopout/public_html/checkout-step.php on line 338
+[21-Dec-2017 04:57:08 Etc/GMT] PHP Notice:  Undefined index: item in /home/shopout/public_html/checkout-step.php on line 338
+[03-Jan-2018 05:20:13 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/shopout/public_html/listing.php on line 443
+[05-Jan-2018 16:36:05 Etc/GMT] PHP Notice:  Undefined index: item in /home/shopout/public_html/checkout-step.php on line 338
+[06-Jan-2018 08:33:12 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/shopout/public_html/index.php on line 217
